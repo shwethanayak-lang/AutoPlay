@@ -3,7 +3,7 @@ const loginData = {
         username: 'standard_user',
         password: 'secret_sauce'
     },
-
+//For locked user
     lockedUser: {
         username: 'locked_out_user',
         password: 'secret_sauce'
